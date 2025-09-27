@@ -21,9 +21,7 @@
   - Traveling  
   - I can spend hours debugging without noticing time pass by — fixing the bug feels like winning a championship!  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -43,8 +41,8 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathurjansurenthiran&show_icons=true&locale=en&layout=compact" alt="sathurjansurenthiran" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathurjansurenthiran&show_icons=true&locale=en&layout=compact" alt="sathurjansurenthiran" /></p> <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathurjansurenthiran&show_icons=true&locale=en" alt="sathurjansurenthiran" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathurjansurenthiran&show_icons=true&locale=en" alt="sathurjansurenthiran" /></p>  <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathurjansurenthiran&" alt="sathurjansurenthiran" /></p>
