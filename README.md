@@ -1,21 +1,207 @@
-<h1 align="center">Hi 👋, I'm Sathurjan</h1>
-<h3 align="center">I’m a Software Engineering Undergraduate and a passionate Full-Stack Web Developer. I enjoy designing and building scalable web applications, experimenting with new technologies, and solving real-world problems through code.</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **Advanced Full-Stack Development Data Science & Machine Learning Cloud Services Advanced Databases Building projects with AI Applications**
+# Hi 👋, I'm Sathurjan
 
-- 🚀 Goals [Build impactful projects combining Full-Stack Web Development with AI Contribute to open-source projects Continuously improve problem-solving and coding skills](Build impactful projects combining Full-Stack Web Development with AI Contribute to open-source projects Continuously improve problem-solving and coding skills)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergraduate;Full-Stack+Web+Developer;AI+%26+Cloud+Enthusiast;React+%7C+Spring+Boot+%7C+Node.js;Building+Modern+Scalable+Applications" alt="Typing SVG" />
 
-- 💬 Ask me about **I am a dedicated Software Engineer who is passionate about learning new technologies and adapting quickly to changing environments. I specialize in developing clean, scalable, and maintainable code while following industry best practices. I enjoy creating modern, high-performance applications with a strong focus on user experience, intuitive design, and efficient functionality.**
+</div>
 
-- 📫 How to reach me **sathurjan.official@gmail.com**
+---
 
-- ⚡ Fun fact **Playing Football Drawing Traveling I can spend hours debugging without noticing time pass by — fixing the bug feels like winning a championship!**
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
+💻 Software Engineering Undergraduate passionate about building scalable and modern web applications.
+
+🌱 Currently learning:
+
+- Advanced Full-Stack Development
+- Data Science & Machine Learning
+- Cloud Services & AWS
+- Advanced Databases
+- AI-Powered Applications
+
+🎯 Goals:
+
+- Build impactful AI + Full-Stack projects
+- Contribute to Open Source
+- Improve problem-solving & system design skills
+- Develop scalable and user-friendly applications
+
+⚡ Fun Fact:
+
+> I can spend hours debugging without noticing time pass by — fixing the bug feels like winning a championship 🏆
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:sathurjan.official@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/SathurjanSurenthiran">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+# 💻 Tech Stack
+
+## Frontend
+
 <p align="left">
-<a href="https://linkedin.com/in/sathurjansurenthiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sathurjansurenthiran" height="30" width="40" /></a>
-<a href="https://fb.com/surenthiran sathurjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="surenthiran sathurjan" height="30" width="40" /></a>
+<img src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind,flutter,figma,vuetify" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+## Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,spring,java" />
+</p>
+
+## Database & Cloud
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws" />
+</p>
+
+## Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postman,git,github,vscode" />
+</p>
+
+---
+
+# 🧠 Currently Exploring
+
+```yaml
+- AI Application Development
+- Cloud Computing & DevOps
+- Machine Learning
+- REST API Architecture
+- Scalable Backend Systems
+- Modern UI/UX Design
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SathurjanSurenthiran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathurjanSurenthiran&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🔥 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SathurjanSurenthiran&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# 📅 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SathurjanSurenthiran&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SathurjanSurenthiran&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+## 🌟 OS-project
+
+💡 Operating system related project built using Shell scripting.
+
+---
+
+## 📱 MyFirstMobileApp
+
+Travel application UI built using Kotlin.
+
+---
+
+## 🧮 Calculator_App
+
+Simple and responsive calculator application using JavaScript.
+
+---
+
+# 📈 Coding Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SathurjanSurenthiran&theme=tokyonight" width="100%" />
+
+</div>
+
+---
+
+# 🎨 Design Philosophy
+
+✨ Clean UI  
+⚡ Performance Focused  
+📱 Responsive Design  
+🧩 Scalable Architecture  
+🎯 User-Centered Experiences
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SathurjanSurenthiran/SathurjanSurenthiran/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+# ☕ Developer Quote
+
+<div align="center">
+
+### “Code. Learn. Build. Repeat.”
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=SathurjanSurenthiran&label=Profile%20Views&color=7F5AF0&style=for-the-badge" />
+
+</div>
