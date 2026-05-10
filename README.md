@@ -12,23 +12,20 @@
 
 💻 Passionate Software Engineer focused on building scalable, modern, and user-friendly applications.
 
-🌱 Currently Learning
-
+🌱 **Currently Learning**
 - Advanced Full-Stack Development
 - AI Applications
 - Data Science & Machine Learning
 - Cloud Computing & AWS
 - Advanced Databases
 
-🎯 Goals
-
+🎯 **Goals**
 - Build impactful AI-powered applications
 - Contribute to Open Source Projects
 - Improve problem-solving skills
 - Create modern responsive web applications
 
-⚡ Fun Fact
-
+⚡ **Fun Fact**  
 > I can spend hours debugging without noticing time pass by — fixing bugs feels like winning a championship 🏆
 
 ---
@@ -41,11 +38,11 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/YOUR_USERNAME/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.facebook.com/">
+<a href="https://www.facebook.com/YOUR_USERNAME/">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
@@ -56,87 +53,49 @@
 # 💻 Tech Stack
 
 ## Frontend Development
-
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind,flutter,vuetify" />
+<img src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind,vuetify" />
 </p>
-
----
 
 ## Backend Development
-
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,java,spring" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,php" />
 </p>
 
----
-
-## Database • Tools • Cloud • Design
-
+## Database & Tools & Others
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,postman,figma,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postman,figma,git,github,vscode,aws,firebase,flutter" />
 </p>
 
 ---
 
 # 🧠 Currently Exploring
 
-```yaml
 - AI Application Development
 - Cloud Computing
 - Machine Learning
 - REST API Development
 - Scalable Backend Architecture
 - Modern UI/UX Design
-```
 
 ---
 
-# 📅 GitHub Contributions
+# 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SathurjanSurenthiran&theme=tokyonight&hide_border=true" />
 
-<br><br>
+<br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SathurjanSurenthiran&theme=tokyonight" />
-
-<br><br>
-
-<img src="https://ghchart.rshah.org/00ff99/SathurjanSurenthiran" alt="GitHub Contribution Chart" width="100%" />
 
 </div>
 
 ---
 
-# 📊 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathurjanSurenthiran&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SathurjanSurenthiran/SathurjanSurenthiran/output/snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
-# 📈 Coding Activity
-
-<div align="center">
+# 📈 Contribution Graph
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SathurjanSurenthiran&theme=tokyonight" width="100%" />
-
-</div>
 
 ---
 
@@ -160,8 +119,3 @@
 
 ---
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=SathurjanSurenthiran&label=Profile+Views&color=00ff99&style=for-the-badge" />
-
-</div>
