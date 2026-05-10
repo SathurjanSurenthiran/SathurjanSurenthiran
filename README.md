@@ -2,34 +2,34 @@
 
 # Hi 👋, I'm Sathurjan
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergraduate;Full-Stack+Web+Developer;AI+%26+Cloud+Enthusiast;React+%7C+Spring+Boot+%7C+Node.js;Building+Modern+Scalable+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Web+Developer;AI+%26+Cloud+Enthusiast;React+%7C+Spring+Boot+%7C+Node.js;Building+Modern+Scalable+Applications" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-💻 Software Engineering Undergraduate passionate about building scalable and modern web applications.
+💻 Passionate Software Engineer focused on building scalable, modern, and user-friendly applications.
 
-🌱 Currently learning:
+🌱 Currently Learning
 
 - Advanced Full-Stack Development
+- AI Applications
 - Data Science & Machine Learning
-- Cloud Services & AWS
+- Cloud Computing & AWS
 - Advanced Databases
-- AI-Powered Applications
 
-🎯 Goals:
+🎯 Goals
 
-- Build impactful AI + Full-Stack projects
-- Contribute to Open Source
-- Improve problem-solving & system design skills
-- Develop scalable and user-friendly applications
+- Build impactful AI-powered applications
+- Contribute to Open Source Projects
+- Improve problem-solving skills
+- Create modern responsive web applications
 
-⚡ Fun Fact:
+⚡ Fun Fact
 
-> I can spend hours debugging without noticing time pass by — fixing the bug feels like winning a championship 🏆
+> I can spend hours debugging without noticing time pass by — fixing bugs feels like winning a championship 🏆
 
 ---
 
@@ -38,11 +38,7 @@
 <div align="center">
 
 <a href="mailto:sathurjan.official@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/SathurjanSurenthiran">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/">
@@ -59,28 +55,26 @@
 
 # 💻 Tech Stack
 
-## Frontend
+## Frontend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind,flutter,figma,vuetify" />
+<img src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind,flutter,vuetify" />
 </p>
 
-## Backend
+---
+
+## Backend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,spring,java" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,java,spring" />
 </p>
 
-## Database & Cloud
+---
+
+## Database • Tools • Cloud • Design
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws" />
-</p>
-
-## Tools & Platforms
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=postman,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,postman,figma,git,github,vscode" />
 </p>
 
 ---
@@ -89,74 +83,50 @@
 
 ```yaml
 - AI Application Development
-- Cloud Computing & DevOps
+- Cloud Computing
 - Machine Learning
-- REST API Architecture
-- Scalable Backend Systems
+- REST API Development
+- Scalable Backend Architecture
 - Modern UI/UX Design
 ```
 
 ---
 
-# 📊 GitHub Analytics
+# 📅 GitHub Contributions
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SathurjanSurenthiran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SathurjanSurenthiran&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathurjanSurenthiran&layout=compact&theme=tokyonight&hide_border=true" />
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SathurjanSurenthiran&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://ghchart.rshah.org/00ff99/SathurjanSurenthiran" alt="GitHub Contribution Chart" width="100%" />
 
 </div>
 
 ---
 
-# 🔥 Contribution Graph
+# 📊 Most Used Languages
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SathurjanSurenthiran&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathurjanSurenthiran&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 📅 Contribution Streak
+# 🐍 Contribution Snake Animation
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SathurjanSurenthiran&theme=tokyonight&hide_border=true" />
+<img src="https://raw.githubusercontent.com/SathurjanSurenthiran/SathurjanSurenthiran/output/snake.svg" alt="Snake animation" />
 
 </div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SathurjanSurenthiran&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-## 🌟 OS-project
-
-💡 Operating system related project built using Shell scripting.
-
----
-
-## 📱 MyFirstMobileApp
-
-Travel application UI built using Kotlin.
-
----
-
-## 🧮 Calculator_App
-
-Simple and responsive calculator application using JavaScript.
 
 ---
 
@@ -176,17 +146,7 @@ Simple and responsive calculator application using JavaScript.
 ⚡ Performance Focused  
 📱 Responsive Design  
 🧩 Scalable Architecture  
-🎯 User-Centered Experiences
-
----
-
-# 🐍 Contribution Snake Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SathurjanSurenthiran/SathurjanSurenthiran/output/snake.svg" alt="Snake animation" />
-
-</div>
+🎯 User-Centered Experience
 
 ---
 
@@ -194,7 +154,7 @@ Simple and responsive calculator application using JavaScript.
 
 <div align="center">
 
-### “Code. Learn. Build. Repeat.”
+### "Code • Learn • Build • Repeat"
 
 </div>
 
@@ -202,6 +162,6 @@ Simple and responsive calculator application using JavaScript.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SathurjanSurenthiran&label=Profile%20Views&color=7F5AF0&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=SathurjanSurenthiran&label=Profile+Views&color=00ff99&style=for-the-badge" />
 
 </div>
